@@ -1,3 +1,3 @@
-Pillow
-ttkbootstrap
-requests
+Pillow==8.4.0
+ttkbootstrap==1.0.0
+requests==2.26.0
